@@ -12,7 +12,6 @@ const commonVariables = {
 
     STATUS: [200, 500, 400, 401, 403],
     SERVICE_REST_PORT: '8001',
-    mongoConnectionString: 'mongodb://localhost:27017/studyAbroad',
     ROLES: 'ADMIN,USER',
     pageLimit: 10,
     SIGNUP_SOURCES: 'APPLIED_CONDITIONAL_OFFER,UNCONDITIONAL_OFFER,ACCEPTED,DEPOSIT_PAID,CAS_LETTER,VISA_LETTER_ARRIVED',
